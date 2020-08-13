@@ -1,3 +1,6 @@
+/**
+ *          从后往前比较并排序
+ */ 
 #include <iostream>
 #include <vector>
 using namespace std;
